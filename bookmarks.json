@@ -1,17 +1,31 @@
 {
-  "items": [
+  "$schema": "https://frederikb.github.io/bookmarksync/schemas/bookmarks.1-0-0.schema.json",
+  "name": "Bookmarks 1",
+  "bookmarks": [
     {
-      "title": "Tools",
+      "title": "Work",
       "children": [
-        { "title": "VSCode", "url": "https://code.visualstudio.com" },
         {
-          "title": "Extensions",
+          "title": "Email",
+          "url": "https://mail.example.com"
+        },
+        {
+          "title": "Docs",
           "children": [
-            { "title": "Prettier", "url": "https://prettier.io" }
+            {
+              "title": "Specs",
+              "url": "https://specs.example.com"
+            },
+            {
+                "type": "separator"
+            },
+            {
+              "title": "Reports",
+              "url": "https://reports.example.com"
+            }
           ]
         }
       ]
-    },
-    { "title": "MDN", "url": "https://developer.mozilla.org" }
+    }
   ]
 }
