@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "title": "Tools",
+      "children": [
+        { "title": "VSCode", "url": "https://code.visualstudio.com" },
+        {
+          "title": "Extensions",
+          "children": [
+            { "title": "Prettier", "url": "https://prettier.io" }
+          ]
+        }
+      ]
+    },
+    { "title": "MDN", "url": "https://developer.mozilla.org" }
+  ]
+}
