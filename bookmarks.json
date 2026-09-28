@@ -3,11 +3,11 @@
   "name": "Bookmarks 1",
   "bookmarks": [
     {
-      "title": "Work",
+      "title": "MC-Bookmarks",
       "children": [
         {
           "title": "Email",
-          "url": "https://mail.example.com"
+          "url": "https://mc-bookmarks.com"
         },
         {
           "title": "Docs",
